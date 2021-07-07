@@ -62,4 +62,7 @@ To predict whether an applicant will be successful when funded by Alphabet Soup 
     - Reordered Relu and Sigmoid Activations
 
     ![Optimization tHIRD Attempt](.Resources\Optimization-ThirdAttempt.PNG)
-    
+
+## Summary
+
+After the third attempt, only 72 percent accuracy was achieved. May be if more attempts are carried out, over 75 % will be achieved. Additionally, inspecting the data and removing outliers can help achieve 75 percent and above.
