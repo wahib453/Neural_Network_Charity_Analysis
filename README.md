@@ -47,21 +47,21 @@ To predict whether an applicant will be successful when funded by Alphabet Soup 
     - 60 neurons (Layer1), 20 neurons(Layer2)
     - Used Relu and Sigmoid Activations Functions
 
-    ![Optimization First Attempt](.\Resources\Optimization-FirstAttempt.PNG)
+    ![Optimization First Attempt](https://github.com/wahib453/Neural_Network_Charity_Analysis/blob/e27d1b6643ee94f46f2980a8e9be5eccf0a7650e/Resources/Optimization-FirstAttempt.PNG)
 
 2. Second Attempt
     - 3 Hidden Layers
     - 60 neurons (Layer1), 20 neurons(Layer2), 10 neurons
     - Used Relu and Sigmoid Activations Functions
 
-   ![Optimization Second Attempt](.\Resources\Optimization-FirstAttempt.PNG)
+   ![Optimization Second Attempt](https://github.com/wahib453/Neural_Network_Charity_Analysis/blob/e27d1b6643ee94f46f2980a8e9be5eccf0a7650e/Resources/Optimization-SecondAttempt.PNG)
 
 3. Third Attempt
     - 3 Hidden Layers
     - 60 neurons (Layer1), 20 neurons(Layer2), 10 neurons
     - Reordered Relu and Sigmoid Activations
 
-    ![Optimization tHIRD Attempt](.Resources\Optimization-ThirdAttempt.PNG)
+    ![Optimization third Attempt](https://github.com/wahib453/Neural_Network_Charity_Analysis/blob/e27d1b6643ee94f46f2980a8e9be5eccf0a7650e/Resources/Optimization-ThirdAttempt.PNG)
 
 ## Summary
 
